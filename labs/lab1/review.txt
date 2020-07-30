@@ -1,0 +1,16 @@
+Answer the following true/false questions about the course
+
+1.	(true/false): I can submit programming assignments more than 2 days late.
+2.	(true/false): The penalty for each day late is 25% of the maximum points.
+3.	(true/false): I have 2 grace days for programming assignments where I will not have any penalty for submitting late.
+4.	(true/false): I am allowed to describe my code for a lab or assignment to my friends in CS 103.
+5.	(true/false): I can demo labs early but there is no late submission for labs. 
+
+
+----------------
+Answers: (true/false)
+1:false
+2:true
+3:true
+4:false
+5:true
