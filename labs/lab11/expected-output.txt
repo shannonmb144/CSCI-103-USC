@@ -1,0 +1,30 @@
+Added 1 to the list and now front is 1
+Removed item
+Added 2 to the list and now back is 2
+Removed item
+List size after adding 10 elements is 10
+Popping front item = 24
+Popping front item = 23
+Popping front item = 22
+Popping front item = 21
+Popping front item = 20
+Popping front item = 10
+Popping front item = 11
+Popping front item = 12
+Popping front item = 13
+Popping front item = 14
+Trying to pop an item that doesn't exist
+Looking at values from front() and back() of empty list: -1 -1
+Repopulating list
+Popping back item = 14
+Popping back item = 13
+Popping back item = 12
+Popping back item = 11
+Popping back item = 10
+Popping back item = 20
+Popping back item = 21
+Popping back item = 22
+Popping back item = 23
+Popping back item = 24
+Trying to pop an item that doesn't exist
+Goodbye!
