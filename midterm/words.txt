@@ -1,0 +1,5 @@
+4
+0 0 L HI
+1 0 T BYE
+2 2 D TOM
+3 0 L FOO
