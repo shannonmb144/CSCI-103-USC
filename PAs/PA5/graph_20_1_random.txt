@@ -1,0 +1,81 @@
+20
+0
+	ttmhq12le.com
+	0.0
+	7 12 16 19 2 4
+1
+	pce.edu
+	0.0
+	15 18 19
+2
+	wg7u.mil
+	0.0
+	9 4
+3
+	17vz.mil
+	0.0
+	0 15
+4
+	aa3hp.gov
+	0.0
+	10 0
+5
+	2005b.gov
+	0.0
+	10
+6
+	qobjg.com
+	0.0
+	5
+7
+	eqkz4f.gov
+	0.0
+	12
+8
+	9i.edu
+	0.0
+	6
+9
+	lxoxe.com
+	0.0
+	3
+10
+	hrs5lwt8.mil
+	0.0
+	17
+11
+	8f7z.com
+	0.0
+	9
+12
+	a53.net
+	0.0
+	19
+13
+	xspjd.edu
+	0.0
+	7
+14
+	riggydu2vru.net
+	0.0
+	9
+15
+	zr.net
+	0.0
+	10
+16
+	0nr.mil
+	0.0
+	15
+17
+	s3b.com
+	0.0
+	5
+18
+	35q37.mil
+	0.0
+	9
+19
+	o7l3.edu
+	0.0
+	18
